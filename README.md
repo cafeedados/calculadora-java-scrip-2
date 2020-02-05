@@ -14,6 +14,16 @@
 - [JavaScript ECMA6](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 - [Bootstrap 4](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
 
+## Imagens do Projeto
+
+
+
+## Funcionalidades
+
+- Operacoes de Multiplicacao, Divisao, Soma, Subtracao e Porcentagem
+- Funcao de habilitar e desabilitar o audio das teclas da calculadora
+- Utilizacao tanto do mouse sobre as teclas quanto o teclado do dispositivo.
+
 
 ## Licenca
 
