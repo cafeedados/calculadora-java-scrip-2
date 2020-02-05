@@ -16,6 +16,8 @@
 
 ## Imagens do Projeto
 
+**Imagem de Erro**
+<img src="/docs/calc01.png">
 
 
 ## Funcionalidades
